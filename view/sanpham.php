@@ -93,7 +93,6 @@
                                         <li><a href="#">Apartment Building <span>780</span></a></li>
                                         <li><a href="#">Bungalow<span>670</span></a></li>
                                         <li><a href="#">Corporate House<span>530</span></a></li>
-                                        <li><a href="#">Duplex Villa<span>350</span></a></li>
                                         <li><a href="#">Garend House<span>210</span></a></li> -->
                                     </ul>
                                 </div>
